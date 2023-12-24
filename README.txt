@@ -4,7 +4,7 @@ Education big data classroom homework collection
 
 ## Project Links
 
-- **Site:** [Project Site](https://yukun-bond.github.io/git-repo/)
+- **Site:** [Web Page](https://yukun-bond.github.io/git-repo/)
 
 ## Structure
 
@@ -26,4 +26,4 @@ Education big data classroom homework collection
 
 ## Contact
 
-For any questions or feedback, please contact [YuKun Tsai](mailto:bond920213@gmail.com).
+For any questions or feedback, please contact [YuKun Tsai](bond920213@gmail.com).
