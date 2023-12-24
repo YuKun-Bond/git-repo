@@ -8,12 +8,12 @@ Education big data classroom homework collection
 
 ## Structure
 
-- **Site index** -> index.html
-- **Pythin Code** -> csv資訊處理練習_文廷.py
-- **PHP Code** -> htdocs
+- **Site index:** `index.html`
+- **Python Code:** `csv資訊處理練習_文廷.py`
+- **PHP Code:** `htdocs`
 
 ## PHP Code Structure
-- **inside PHP**
+
 ### Class 1
 
 - **Implementation1-1.php**
@@ -26,4 +26,4 @@ Education big data classroom homework collection
 
 ## Contact
 
-For any questions or feedback, please contact [YuKun Tsai](bond920213@gmail.com).
+For any questions or feedback, please contact [YuKun Tsai](mailto:bond920213@gmail.com).
